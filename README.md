@@ -13,7 +13,7 @@ adding the exact path of the file you want to fetch in the end.
 https://raw.githubusercontent.com/nova-network-inc/common-assets/main/
 ```
 
-Eg. `https://raw.githubusercontent.com/nova-network-inc/common-assets/main/chain-lists/chains/eip155-87.json`
+**Eg.** https://raw.githubusercontent.com/nova-network-inc/common-assets/main/chain-lists/chains/eip155-87.json
 
 ## Pull Requests
 
@@ -30,6 +30,6 @@ This is a live repository, so expect frequent changes and new commits.
 
 ```shell
 |- chain-lists    -   Lists known EVM networks.
-|- token-info     -   Lists ERC20 token information in multiple chains.
+|- token-info     -   Lists ERC20 token information. Multiple chains.
 |- token-lists    -   Compiled token lists used by our protocols.
 ```
