@@ -9,10 +9,9 @@ pull request with their token information.
 When submitting a pull request for adding a token, please follow the `json` standard
 below, with special attention to the `isAggregator` field.
 
-We also require all tokens being listed to be added to our [`/token-info`]
-(https://github.com/nova-network-inc/common-assets/tree/main/token-info) repository,
-so we can fetch both the logo and the token information easily for further integration
-with Fusion and other Nova Network dApps.
+We also require all tokens being listed to be added to our [/token-info](https://github.com/nova-network-inc/common-assets/tree/main/token-info) repository, so we can fetch both the logo and the
+token information easily for further integration with Fusion and other Nova
+Network dApps.
 
 `isAggregator` is used by the protocol to determine where to look for liquidity
 first when processing a trade. If `true`, the protocol will actively try to route
