@@ -54,3 +54,9 @@ Example formatting:
 
 If you're making significant changes to an existing list, we recommend you to create
 a new list instead.
+
+## Fusion Boilerplate
+
+Fusion Boilerplate by default fetches the `/public/_boilerplate.json` list to display
+tokens. You can add your token there at any time by submitting a pull request with
+your token information. Don't forget to list your token on `/token-lists/` first.
