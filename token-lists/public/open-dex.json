@@ -23,11 +23,21 @@
       "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x657a66332A65B535Da6C5d67b8cD1D410c161a08/logo.png",
       "tags": ["wrapped", "snt"],
       "isAggregator": false
+    },
+    {
+      "chainId": 87,
+      "address": "0xe36118ccfa51e4caf750dfaeaf5c6cf250759acb",
+      "symbol": "ODX",
+      "name": "OpenDEX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0xe36118ccfa51e4caf750dfaeaf5c6cf250759acb/logo.png",
+      "tags": ["open", "dex"],
+      "isAggregator": false
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
