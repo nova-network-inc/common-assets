@@ -43,21 +43,11 @@
       "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x356c044b99e9378c1b28a1cab2f95cd65e877f33/logo.png",
       "tags": ["quasar", "swap"],
       "isAggregator": false
-    },
-    {
-      "chainId": 87,
-      "address": "0xcb71317ea8cc0a0797129ab26049624427803053",
-      "symbol": "BLC",
-      "name": "Blue Cow",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0xcb71317ea8cc0a0797129ab26049624427803053/logo.png",
-      "tags": ["blue", "cow"],
-      "isAggregator": false
     }
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
