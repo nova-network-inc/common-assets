@@ -13,7 +13,11 @@ adding the exact path of the file you want to fetch in the end.
 https://raw.githubusercontent.com/nova-network-inc/common-assets/main/
 ```
 
-**Eg.:** https://raw.githubusercontent.com/nova-network-inc/common-assets/main/chain-lists/chains/eip155-87.json
+**Example:**
+
+```shell
+https://raw.githubusercontent.com/nova-network-inc/common-assets/main/chain-lists/chains/eip155-87.json
+```
 
 ## Pull Requests
 
