@@ -16,6 +16,16 @@
   ],
   "tokens": [
     {
+      "name": "Pain",
+      "symbol": "PAIN",
+      "address": "0x03df17D779488Ed6e1Da61fE6e0d2EF26AA6B096",
+      "chainId": 87,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x03df17D779488Ed6e1Da61fE6e0d2EF26AA6B096/logo.png",
+      "bridgeId": "",
+      "permit": 0
+    },
+    {
       "name": "OpenDEX",
       "symbol": "ODX",
       "address": "0xE36118cCfa51e4CAf750DFAeaF5C6CF250759AcB",
