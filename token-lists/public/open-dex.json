@@ -43,11 +43,21 @@
       "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x356c044b99e9378c1b28a1cab2f95cd65e877f33/logo.png",
       "tags": ["quasar", "swap"],
       "isAggregator": false
+    },
+    {
+      "chainId": 87,
+      "address": "0x03df17D779488Ed6e1Da61fE6e0d2EF26AA6B096",
+      "symbol": "PAIN",
+      "name": "Pain",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x03df17D779488Ed6e1Da61fE6e0d2EF26AA6B096/logo.png",
+      "tags": ["pain", "token"],
+      "isAggregator": false
     }
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
