@@ -28,20 +28,20 @@
     {
       "name": "OpenDEX",
       "symbol": "ODX",
-      "address": "0xe36118ccfa51e4caf750dfaeaf5c6cf250759acb",
+      "address": "0xE36118cCfa51e4CAf750DFAeaF5C6CF250759AcB",
       "chainId": 87,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0xe36118ccfa51e4caf750dfaeaf5c6cf250759acb/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0xE36118cCfa51e4CAf750DFAeaF5C6CF250759AcB/logo.png",
       "bridgeId": "",
       "permit": 0
     },
     {
       "name": "QuasarSwap Token",
       "symbol": "QSR",
-      "address": "0x356c044b99e9378c1b28a1cab2f95cd65e877f33",
+      "address": "0x356c044B99e9378C1B28A1cAb2F95Cd65E877F33",
       "chainId": 87,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x356c044b99e9378c1b28a1cab2f95cd65e877f33/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x356c044B99e9378C1B28A1cAb2F95Cd65E877F33/logo.png",
       "bridgeId": "",
       "permit": 0
     },
