@@ -16,6 +16,26 @@
   ],
   "tokens": [
     {
+      "name": "Wrapped SNT",
+      "symbol": "WSNT",
+      "address": "0x657a66332A65B535Da6C5d67b8cD1D410c161a08",
+      "chainId": 87,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x657a66332A65B535Da6C5d67b8cD1D410c161a08/logo.png",
+      "bridgeId": "",
+      "permit": 0
+    },
+    {
+      "name": "Nova USD",
+      "symbol": "NUSD",
+      "address": "0x1F5396f254EE25377A5C1b9c6BfF5f44e9294fFF",
+      "chainId": 87,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x1F5396f254EE25377A5C1b9c6BfF5f44e9294fFF/logo.png",
+      "bridgeId": "",
+      "permit": 0
+    },
+    {
       "name": "Pain",
       "symbol": "PAIN",
       "address": "0x03df17D779488Ed6e1Da61fE6e0d2EF26AA6B096",
@@ -45,25 +65,5 @@
       "bridgeId": "",
       "permit": 0
     },
-    {
-      "name": "Nova USD",
-      "symbol": "NUSD",
-      "address": "0x1F5396f254EE25377A5C1b9c6BfF5f44e9294fFF",
-      "chainId": 87,
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x1F5396f254EE25377A5C1b9c6BfF5f44e9294fFF/logo.png",
-      "bridgeId": "",
-      "permit": 0
-    },
-    {
-      "name": "Wrapped SNT",
-      "symbol": "WSNT",
-      "address": "0x657a66332A65B535Da6C5d67b8cD1D410c161a08",
-      "chainId": 87,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x657a66332A65B535Da6C5d67b8cD1D410c161a08/logo.png",
-      "bridgeId": "",
-      "permit": 0
-    }
   ]
 }
