@@ -3,7 +3,7 @@
   "timestamp": "2022-11-23T22:05:02Z",
   "version": {
     "major": 2,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {},
@@ -62,6 +62,26 @@
       "chainId": 87,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x356c044B99e9378C1B28A1cAb2F95Cd65E877F33/logo.png",
+      "bridgeId": "",
+      "permit": 0
+    },
+    {
+      "name": "xEthereum",
+      "symbol": "xETH",
+      "address": "0xf8D67e5E2058aC8B17A1EdC204Ee5895C20E9Cd6",
+      "chainId": 87,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0xf8D67e5E2058aC8B17A1EdC204Ee5895C20E9Cd6/logo.png",
+      "bridgeId": "",
+      "permit": 0
+    },
+    {
+      "name": "xBitcoin",
+      "symbol": "xBTC",
+      "address": "0x0ef25242B465E99eFC7976555D3c972E7a78CE58",
+      "chainId": 87,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x0ef25242B465E99eFC7976555D3c972E7a78CE58/logo.png",
       "bridgeId": "",
       "permit": 0
     }
