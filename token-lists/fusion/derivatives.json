@@ -1,0 +1,35 @@
+{
+  "name": "Fusion Derivatives List",
+  "timestamp": "2023-1-12T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/_native/SNT/logo.png",
+  "keywords": [
+    "fusion",
+    "nova",
+    "network",
+    "default"
+  ],
+  "tokens": {
+    {
+      "name": "xEthereum",
+      "symbol": "xETH",
+      "address": "0x8940BEca5dC0fBb6AC3281168C9F64b9C6d62d94",
+      "chainId": 87,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x8940BEca5dC0fBb6AC3281168C9F64b9C6d62d94/logo.png",
+    },
+    {
+      "name": "xBitcoin",
+      "symbol": "xBTC",
+      "address": "0x0ef25242B465E99eFC7976555D3c972E7a78CE58",
+      "chainId": 87,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x0ef25242B465E99eFC7976555D3c972E7a78CE58/logo.png",
+    }
+  ]
+}
