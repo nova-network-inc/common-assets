@@ -14,7 +14,7 @@
     "network",
     "default"
   ],
-  "tokens": {
+  "tokens": [
     {
       "name": "xEthereum",
       "symbol": "xETH",
