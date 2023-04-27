@@ -3,7 +3,7 @@
   "timestamp": "2023-01-12T00:00:00Z",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {},
@@ -37,15 +37,15 @@
       "address": "0xca286C9607A1cab09cbe5265455Fc970fFA4f31C",
       "chainId": 87,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x0ef25242B465E99eFC7976555D3c972E7a78CE58/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0xca286C9607A1cab09cbe5265455Fc970fFA4f31C/logo.png"
     },
     {
-      "name": "Tether",
+      "name": "xTether",
       "symbol": "xUSDT",
       "address": "0x593C1fDdFCEA3523F7435ac31Fe5F96dc7bf277a",
       "chainId": 87,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x0ef25242B465E99eFC7976555D3c972E7a78CE58/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x593C1fDdFCEA3523F7435ac31Fe5F96dc7bf277a/logo.png"
     },
     {
       "name": "xDogecoin",
@@ -53,15 +53,15 @@
       "address": "0xbDDDE23cc0D86ec16273c5faeE627E58988d9194",
       "chainId": 87,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x0ef25242B465E99eFC7976555D3c972E7a78CE58/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0xbDDDE23cc0D86ec16273c5faeE627E58988d9194/logo.png"
     },
      {
-      "name": "xShibaInb",
+      "name": "xShiba Inu",
       "symbol": "xSHIB",
       "address": "0x023fdDCE623D0E47b0D95D626Eb9D0B005d5bBE8",
       "chainId": 87,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x0ef25242B465E99eFC7976555D3c972E7a78CE58/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/nova-network-inc/common-assets/main/token-info/0x023fdDCE623D0E47b0D95D626Eb9D0B005d5bBE8/logo.png"
     }
   ]
 }
